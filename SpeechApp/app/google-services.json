@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "407799817548",
+    "firebase_url": "https://speechapp-4ac35.firebaseio.com",
+    "project_id": "speechapp-4ac35",
+    "storage_bucket": "speechapp-4ac35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407799817548:android:9535c6eac9774be3",
+        "android_client_info": {
+          "package_name": "com.example.speechapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407799817548-mk232mkr90j0vnib81blf6l7ip63kuhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.speechapp",
+            "certificate_hash": "53086f9d55f4663c65d237ffc2377c77904c4df6"
+          }
+        },
+        {
+          "client_id": "407799817548-kkt74dskkvb8tm975i04s9hjkm7rv75i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpCtXovL5dN-VTWXtNGMQRkg3eKNGFNrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407799817548-kkt74dskkvb8tm975i04s9hjkm7rv75i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
